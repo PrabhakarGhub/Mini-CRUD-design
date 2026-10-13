@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: #f4f5fa;
+  color: #1f2937;
+}
+
+#root {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+body {
+  display: block;
+  place-items: initial;
+  min-height: 100vh;
+}
